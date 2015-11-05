@@ -55,3 +55,6 @@ gem 'devise'
 
 # Env
 gem 'figaro'
+
+#bootstrap
+gem 'bootstrap-sass'
